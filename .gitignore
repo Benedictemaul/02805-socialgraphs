@@ -1,0 +1,6 @@
+# Ignore band text files
+week4_bands/*.txt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
